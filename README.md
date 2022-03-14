@@ -12,6 +12,7 @@ Install any editor of your choise Ecplise/IntelliJ and add cucumber plugin
 
 Git clone "https://github.com/Payal1911/PayalWadnerkarTestProject.git"
 
+Import project from local to editor
 Then run from the root dir of the project:
 
 Right click on project >> select run as >> mvn install
