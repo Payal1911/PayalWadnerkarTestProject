@@ -1,11 +1,14 @@
 # PayalWadnerkarTestProject
 
-**Initial setup:**
+**Initial setup :**
 
 Install Java
-Install Maven
+Install maven 
+Add JAVA_HOME and MAVEN_HOME in environment variable.
+Add maven path in environment variable.
+Install any editor of your choise Ecplise/IntelliJ and add cucumber plugin
 
-**Clone Project from Git**
+**Steps to clone project anf execute on local machine**
 
 Git clone "https://github.com/Payal1911/PayalWadnerkarTestProject.git"
 
