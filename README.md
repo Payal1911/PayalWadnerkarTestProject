@@ -15,3 +15,7 @@ Git clone "https://github.com/Payal1911/PayalWadnerkarTestProject.git"
 Then run from the root dir of the project:
 
 Right click on project >> select run as >> mvn install
+
+**Execution Result:**
+
+Navigate to target/surefire-reports/TEST-cucumberOptions.TestRunner.xml
